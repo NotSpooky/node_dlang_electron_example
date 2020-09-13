@@ -1,0 +1,14 @@
+{
+  "name": "node_dlang_electron_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.node",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
